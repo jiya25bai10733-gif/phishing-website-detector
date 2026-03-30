@@ -65,4 +65,4 @@ python run.py
   ## Note
 - This project is developed as part of the Fundamentals of AI & ML BYOP Course Project.
 - The model is still under training and may not always give accurate results.
-Integrate phishing blacklist APIs
+- Integrate phishing blacklist APIs
